@@ -1,0 +1,11 @@
+{
+  "name": "pfis",
+  "version": "1.0.0",
+  "description": "http://pf.is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Bennett-Freeman <paul@bennett-freeman.com>",
+  "license": "MIT"
+}
